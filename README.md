@@ -1,5 +1,5 @@
-```
-# Receita de Estrogonofe de Frango
+Receita de Estrogonofe de Frango
+===============================
 
 🐓 **Ingredientes**
 
@@ -15,7 +15,8 @@
 - 🥛 1 caixa de creme de leite (200g)
 - 🍟 Batata palha para acompanhar (opcional)
 
-## Modo de Preparo
+Modo de Preparo
+--------------
 
 1. Em uma panela, aqueça o óleo e a manteiga em fogo médio.
    
@@ -34,5 +35,3 @@
 8. Sirva quente, acompanhado de arroz branco e batata palha, se desejar.
 
 🍽️ **Sirva o estrogonofe quente, decorado com batata palha, acompanhado de arroz branco.**
-
-```
